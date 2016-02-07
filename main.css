@@ -1,0 +1,73 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#background{
+	background-color: #ecf0f1;
+	height: 100%;
+	width: 100%;
+}
+
+#logo-title{
+	position: relative;
+	top: 14%;
+}
+
+#logo{
+	width: 20%;
+	position: relative;
+	margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	top: 15%;
+}
+
+#title{
+	text-align: center;
+	top: 13%;
+	position: relative;
+	color: #34495e;
+}
+
+#login{
+	margin: 0 auto;
+	top: 53%;
+	position: absolute;
+	display: block;
+	text-align: center;
+	left: 39%;
+	width: 10%;
+}
+
+#register{
+	margin: 0 auto;
+	top: 53%;
+	position: absolute;
+	display: block;
+	text-align: center;
+	right: 39%;
+	width: 10%;
+}
+
+#login-window{
+	top: 7%;
+	opacity: 0;
+	color: #34495e;	
+	position: relative;
+}
+
+#login-colour{
+	background-color: #bdc3c7;
+}
+
+#submit{
+	left:45%
+}
+
+#register-window{
+	opacity: 0;
+}
